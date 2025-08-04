@@ -53,11 +53,11 @@ qhse-main/
 
 1. Inicializa el repositorio:
    ```powershell
-git init
-git add .
-git commit -m "Subir QHSE App"
-git remote add origin https://github.com/tuusuario/qhse-main.git
-git push -u origin master
+      git init
+      git add .
+      git commit -m "Subir QHSE App"
+      git remote add origin https://github.com/tuusuario/qhse-main.git
+      git push -u origin master
 ```
    (Reemplaza `tuusuario` y el nombre del repo por los tuyos.)
 
